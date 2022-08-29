@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/FileBaiTapSem4/Movie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2135" />
+        <entry key="..\:/FileBaiTapSem4/Movie/app/src/main/res/drawable/edit_text_background.xml" value="0.236" />
         <entry key="..\:/FileBaiTapSem4/Movie/app/src/main/res/layout/activity_detail.xml" value="0.17708333333333334" />
+        <entry key="..\:/FileBaiTapSem4/Movie/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/FileBaiTapSem4/Movie/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/FileBaiTapSem4/Movie/app/src/main/res/layout/hot_item.xml" value="0.17708333333333334" />
         <entry key="..\:/FileBaiTapSem4/Movie/app/src/main/res/layout/item_movie.xml" value="0.17708333333333334" />
